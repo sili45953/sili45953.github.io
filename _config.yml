@@ -1,0 +1,46 @@
+# Site settings
+title: SmartBuy
+description: '스마트하게 쇼핑하는 지능형 온라인 스토어'
+url: 'https://sili45953.github.io'
+baseurl: ''
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+# disable_landing_page: true
+timezone: Asia/Seoul
+
+author:
+  name: 'sili45953'
+  email: sili45953@gmail.com
+  twitter_username:
+  facebook_username: 
+  github_username: 
+  linkedin_username: 
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+
