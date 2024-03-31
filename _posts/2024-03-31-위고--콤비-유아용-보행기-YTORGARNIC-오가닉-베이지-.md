@@ -67,7 +67,7 @@ pin: true
                         1.  콤비 유아용 보행기 YT-ORGARNIC, 오가닉 베이지 
                     </h3>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">30%</span>
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">50%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">199,000원</span>
@@ -76,7 +76,7 @@ pin: true
                         <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 948개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 949개
                     </p>
                     <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=smartbuy&pageKey=324126569&traceid=V0-153&itemId=10024686256&vendorItemId=77307644903" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
@@ -96,7 +96,7 @@ pin: true
                         2.  베이비아인슈타인 피아노 어라운드 위고, 단품 
                     </h3>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">30%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">158,090원</span>
@@ -125,7 +125,7 @@ pin: true
                         3.  브라이트스타트 2in1 어라운드 위고 쏘서, 핑크 
                     </h3>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">1%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">124,710원</span>
@@ -154,7 +154,7 @@ pin: true
                         4.  브라이트스타트 2in1 어라운드 위고 쏘서, 그린 
                     </h3>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">30%</span>
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">2%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">124,710원</span>
@@ -183,7 +183,7 @@ pin: true
                         5.  콤비 아기보행기 YT-180, 블로썸핑크 
                     </h3>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">41%</span>
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">179,000원</span>
@@ -192,7 +192,7 @@ pin: true
                         <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 948개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 949개
                     </p>
                     <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=smartbuy&pageKey=324126569&traceid=V0-153&itemId=19469195557&vendorItemId=5492833368" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
@@ -212,7 +212,7 @@ pin: true
                         6.  위고 일회용 멸균생리식염수 염화나트륨액 주사기형 10ml, 30개 
                     </h3>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">50%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">17,500원</span>
@@ -221,9 +221,38 @@ pin: true
                         <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 468개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 469개
                     </p>
                     <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=smartbuy&pageKey=7511045211&traceid=V0-153&itemId=19424468745&vendorItemId=86674028444" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=smartbuy&pageKey=6713488657&traceid=V0-153&itemId=15593927141&vendorItemId=82812772791" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1058047007695855-d1ba8763-962d-4467-ae74-46c53f5332c3.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        7.  폼포라 절충형 위고 유아웨건 W, 블랙프레임 + 블랙 
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">422,460원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 30개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=smartbuy&pageKey=6713488657&traceid=V0-153&itemId=15593927141&vendorItemId=82812772791" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -238,10 +267,10 @@ pin: true
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        7.  [2개 이상 무료배송] 위고 WEGO NYLON 나일론 봉합사 (2/0 3/0 4/0), 나일론 3/0 (12개입), 1개 
+                        8.  [2개 이상 무료배송] 위고 WEGO NYLON 나일론 봉합사 (2/0 3/0 4/0), 나일론 3/0 (12개입), 1개 
                     </h3>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">10%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">15,000원</span>
@@ -267,10 +296,10 @@ pin: true
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        8.  위고 일회용 멸균생리식염수 염화나트륨액 주사기형 3ml, 30개 
+                        9.  위고 일회용 멸균생리식염수 염화나트륨액 주사기형 3ml, 30개 
                     </h3>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">35%</span>
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">16%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">17,500원</span>
@@ -296,10 +325,10 @@ pin: true
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        9.  위고에빅토르 바닐라 밀푀유 (냉동), 120g, 2개 
+                        10.  위고에빅토르 바닐라 밀푀유 (냉동), 120g, 2개 
                     </h3>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">37%</span>
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">56%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">20,600원</span>
@@ -311,35 +340,6 @@ pin: true
                         <span style="color: #4169E1;">★</span> 리뷰수: 68개
                     </p>
                     <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=smartbuy&pageKey=221927808&traceid=V0-153&itemId=694830510&vendorItemId=4776430782" target="_blank" style="display: inline-block; padding: 10px 20px; 
-                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
-                        [상품 더보기]
-                    </a>
-                </div>
-            </a>
-        </div>
-        
-        <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=smartbuy&pageKey=6470407680&traceid=V0-153&itemId=14121354532&vendorItemId=81368269941" target="_blank" style="text-decoration: none; color: inherit;">
-                <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/a645/51e2c47342e4fc6f150f44cdd7f99ae9bca3402e925d00e461712b1c2a15.jpg" width="300" height="300" style="object-fit: cover;">
-                </div>
-                <div style="margin-left: 20px; text-align: left; flex: 1;">
-                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        10.  위고 카메라급식기4L+자동급수기 WP4PFC+WP3WF 
-                    </h3>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">53%</span>
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">185,900원</span>
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 1.0
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 1개
-                    </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=smartbuy&pageKey=6470407680&traceid=V0-153&itemId=14121354532&vendorItemId=81368269941" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
