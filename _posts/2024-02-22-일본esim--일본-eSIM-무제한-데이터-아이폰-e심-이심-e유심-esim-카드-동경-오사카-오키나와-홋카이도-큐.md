@@ -58,7 +58,7 @@ pin: true
 <div>
 
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=smartbuy&pageKey=7177703727&traceid=V0-153&itemId=18096733879&vendorItemId=85249097098" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartbuy&pageKey=7177703727&traceid=V0-153&itemId=18096733879&vendorItemId=85249097098" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/48cc/50be18236eb867f7d0e702bc77459bef0e84cb9865f5a01d48be53a18f29.png" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -78,7 +78,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 63개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=smartbuy&pageKey=7177703727&traceid=V0-153&itemId=18096733879&vendorItemId=85249097098" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartbuy&pageKey=7177703727&traceid=V0-153&itemId=18096733879&vendorItemId=85249097098" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -87,7 +87,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFTDP?lptag=AF2070826&subid=smartbuy&pageKey=10000000654009&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFTDP?lptag=AF5964186&subid=smartbuy&pageKey=10000000654009&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/travel_reactor/travelSeller/common/A00021417/653d548a-477c-493b-8d36-f222d0e81a25.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -107,7 +107,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 49개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFTDP?lptag=AF2070826&subid=smartbuy&pageKey=10000000654009&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFTDP?lptag=AF5964186&subid=smartbuy&pageKey=10000000654009&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -116,7 +116,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFTDP?lptag=AF2070826&subid=smartbuy&pageKey=10000000664655&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFTDP?lptag=AF5964186&subid=smartbuy&pageKey=10000000664655&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/travel_reactor/travelSeller/common/A00021417/30432cdf-a984-42eb-8ad2-27172660f0fc.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -136,7 +136,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 23개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFTDP?lptag=AF2070826&subid=smartbuy&pageKey=10000000664655&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFTDP?lptag=AF5964186&subid=smartbuy&pageKey=10000000664655&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -145,7 +145,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFTDP?lptag=AF2070826&subid=smartbuy&pageKey=10000002561008&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFTDP?lptag=AF5964186&subid=smartbuy&pageKey=10000002561008&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/travel_reactor/travelSeller/common/A00400881/794a3487-12e7-4844-854d-f5cbf4bf1b56.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -165,7 +165,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 1개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFTDP?lptag=AF2070826&subid=smartbuy&pageKey=10000002561008&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFTDP?lptag=AF5964186&subid=smartbuy&pageKey=10000002561008&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -174,7 +174,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=smartbuy&pageKey=7439723156&traceid=V0-153&itemId=19343213214&vendorItemId=86456681698" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartbuy&pageKey=7439723156&traceid=V0-153&itemId=19343213214&vendorItemId=86456681698" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/0eae/6f20cf2667f9516769c5410eff4fc6d3e4a66898b85a326938d63f92eeba.png" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -194,7 +194,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 10개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=smartbuy&pageKey=7439723156&traceid=V0-153&itemId=19343213214&vendorItemId=86456681698" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartbuy&pageKey=7439723156&traceid=V0-153&itemId=19343213214&vendorItemId=86456681698" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -203,7 +203,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=smartbuy&pageKey=7895005070&traceid=V0-153&itemId=21623896084&vendorItemId=88698584666" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartbuy&pageKey=7895005070&traceid=V0-153&itemId=21623896084&vendorItemId=88698584666" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/7afc/28a3cc3c166492d8b1a4aadc12bd02e25b355c6fd00b46490c48efdc667d.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -223,7 +223,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 0개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=smartbuy&pageKey=7895005070&traceid=V0-153&itemId=21623896084&vendorItemId=88698584666" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartbuy&pageKey=7895005070&traceid=V0-153&itemId=21623896084&vendorItemId=88698584666" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -232,7 +232,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFTDP?lptag=AF2070826&subid=smartbuy&pageKey=10000002591243&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFTDP?lptag=AF5964186&subid=smartbuy&pageKey=10000002591243&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/travel_reactor/travelSeller/common/A00055817/fa56e9e8-a27c-40ca-a8db-560f6f4e93f4.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -252,7 +252,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 1개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFTDP?lptag=AF2070826&subid=smartbuy&pageKey=10000002591243&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFTDP?lptag=AF5964186&subid=smartbuy&pageKey=10000002591243&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -261,7 +261,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFTDP?lptag=AF2070826&subid=smartbuy&pageKey=10000000639183&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFTDP?lptag=AF5964186&subid=smartbuy&pageKey=10000000639183&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/travel_reactor/travelSeller/common/A00400881/6325567d-42b2-43e4-9040-07812ef7efa1.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -281,7 +281,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 3개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFTDP?lptag=AF2070826&subid=smartbuy&pageKey=10000000639183&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFTDP?lptag=AF5964186&subid=smartbuy&pageKey=10000000639183&traceid=V0-153&itemId=None&vendorItemId=None" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -290,7 +290,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=smartbuy&pageKey=7426869662&traceid=V0-153&itemId=19280410486&vendorItemId=86360394331" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartbuy&pageKey=7426869662&traceid=V0-153&itemId=19280410486&vendorItemId=86360394331" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/d58b/9174ebda8e0c2bc272eff089726cead7f58fc52e134b22b5fda81a206688.png" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -310,7 +310,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 10개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=smartbuy&pageKey=7426869662&traceid=V0-153&itemId=19280410486&vendorItemId=86360394331" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartbuy&pageKey=7426869662&traceid=V0-153&itemId=19280410486&vendorItemId=86360394331" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -319,7 +319,7 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=smartbuy&pageKey=7576326548&traceid=V0-153&itemId=19990829561&vendorItemId=83683680405" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartbuy&pageKey=7576326548&traceid=V0-153&itemId=19990829561&vendorItemId=83683680405" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
                     <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/101c/4f870c26d29c8621382d4a018e9bfe590f92ecefa80480ce5876c4b58eaf.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
@@ -339,7 +339,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 350개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=smartbuy&pageKey=7576326548&traceid=V0-153&itemId=19990829561&vendorItemId=83683680405" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=smartbuy&pageKey=7576326548&traceid=V0-153&itemId=19990829561&vendorItemId=83683680405" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
